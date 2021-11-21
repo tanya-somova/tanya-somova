@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanya-somova
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and jekyll
-- [here](tanya-somova.github.io) is my GitHub page
+- [here](http://tanya-somova.github.io) is my GitHub page
 
 <!---
 tanya-somova/tanya-somova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
