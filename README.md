@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tatjanasomova.github.io/tanya-somova)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_tanya_somova)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tatjanasomova)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tanya-somova)
 
 I am an Architectural Engineer and Computational Designer. I love learning new technology and apply it to varies projects. In my free time I learn programming, photography, paint, CNC and 3D print. I also enjoy traveling, going on a hike, for a climb or jump into the waves. 🏄
 
