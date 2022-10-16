@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Customization
+parent: page1
 nav_order: 1
 ---
 
