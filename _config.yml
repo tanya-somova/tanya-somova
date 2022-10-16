@@ -4,4 +4,4 @@ exclude:
    - .sass-cache/
    - .jekyll-cache/
    
-color_scheme: nil
+color_scheme: dark
