@@ -1,3 +1,11 @@
+# Remote Setting
+# baseurl: "/notebook"
+# url: "https://hidrokit.github.io"
 
 # Theme
-theme: "just-the-docs"
+# theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
+
+# Theme settings
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
