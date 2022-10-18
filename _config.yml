@@ -9,3 +9,4 @@ remote_theme: just-the-docs/just-the-docs
 # Theme settings
 # Color scheme currently only supports "dark" or nil (default)
 
+color_scheme: "dark"
